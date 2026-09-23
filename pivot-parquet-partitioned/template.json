@@ -1,0 +1,7 @@
+{
+    "system": "Pivot (Parquet, partitioned)",
+    "proprietary": "no",
+    "hardware": "cpu",
+    "tuned": "no",
+    "tags": ["Rust","column-oriented","PostgreSQL compatible","stateless"]
+}
